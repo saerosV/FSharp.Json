@@ -18,6 +18,7 @@
     <Compile Include="Transforms.fs" />
     <Compile Include="Tuple.fs" />
     <Compile Include="Union.fs" />
+    <Compile Include="Oleg.fs" />
   </ItemGroup>
 
   <ItemGroup>
