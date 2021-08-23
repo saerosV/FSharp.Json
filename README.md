@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/vsapronov/FSharp.Json/tree/nizhnik.svg?style=svg)](https://circleci.com/gh/vsapronov/FSharp.Json/tree/nizhnik)
+
 # FSharp.Json: JSON Serialization Library
 
 FSharp.Json is F# JSON serialization library based on Reflection it's written in F# for F#.
